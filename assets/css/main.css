@@ -79,7 +79,7 @@ body {
   width: 20px;
 }
 
-.work-area, .work-area-queries, .work-area-import {
+.work-area {
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -87,7 +87,7 @@ body {
   align-items: center;
 }
 
-.work-area p, .work-area-queries p, .work-area-import p {
+.work-area p {
   margin-top: 10px;
   font-size: 36px;
   font-weight: 200;
@@ -146,10 +146,18 @@ body {
   font-weight: 200;
 }
 
-.work-area-queries {
+.consultas {
   background-color: #f29bfb;
 }
 
-.work-area-import {
-  background-color: #fa56fb;
+.importar {
+  background-color: #f896fb;
+}
+
+.reportes {
+  background-color: #1856fb;
+}
+
+.admin {
+  background-color: #fa565a;
 }
