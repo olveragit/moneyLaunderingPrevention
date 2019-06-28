@@ -79,7 +79,7 @@ body {
   width: 20px;
 }
 
-.work-area{
+.work-area {
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -144,4 +144,20 @@ body {
   margin-right: 60px;
   font-size: 14px;
   font-weight: 200;
+}
+
+.consultas {
+  background-color: #f29bfb;
+}
+
+.importar {
+  background-color: #f896fb;
+}
+
+.reportes {
+  background-color: #1856fb;
+}
+
+.admin {
+  background-color: #fa565a;
 }
